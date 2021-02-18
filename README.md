@@ -21,7 +21,7 @@ NLTK's Vader sentiment analysis indicated that since Covid, the world outlook ha
 
 As expected, the world's sentiment level fluctuated up and down on a daily level. At the end of the day, all the yo-yoing trickled down to just white nosies that dwells over a constant mean level.
 
-![Image](We buy gold when we scared.png)
+![Image](https://github.com/tengmelody/Capstone2_Buy_Gold_Now_Or_Nay/blob/master/img/Are%20we%20all%20going%20to%20hell%3F.png)
 
 Next was the gold prices analysis.
 
