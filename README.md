@@ -33,7 +33,7 @@ I wanted to see how gold was trending. Was there panic-induced buying of gold? I
 
 I performed seasonal decomposition analysis to isolate the trend component from the data. Removing seasonality and residuals allowed for clearer reading of trend.
 
-![Image](gold seasonal decompose.png)
+![Image](https://github.com/tengmelody/Capstone2_Buy_Gold_Now_Or_Nay/blob/master/img/gold%20seasonal%20decompose.png)
 
 Gold trend showed a remarkable increase, especially since February. That month also marked the start of Covid news coverage and spread of infections.
 
