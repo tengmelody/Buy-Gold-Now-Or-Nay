@@ -1,4 +1,4 @@
-Buy Gold Now Or Nay
+## Buy Gold Now Or Nay
 
 Predicting Gold Prices with Sentiment Analysis of Public Opinion
 
