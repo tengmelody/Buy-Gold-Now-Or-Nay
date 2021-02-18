@@ -47,7 +47,7 @@ So, positive gold rates paired with neutral social sentiments? Is there a correl
 
 Doing a Pearson's Correlation (numpy's corrcoef) indicated a result close to zero. -0.04, to be more precise.
 
-![Image](corr.png)
+![Image](https://github.com/tengmelody/Capstone2_Buy_Gold_Now_Or_Nay/blob/master/img/corr.png)
 
 My data analysis showed a lack of clear relationship between the two elements.
 
